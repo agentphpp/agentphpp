@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/agentphpp-red" />
+  <img src="https://img.shields.io/badge/agentphpp%20-%20%23c40000" />
 </div>
       
 <br>
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
+  <img style="border: 1px solid #c40000" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
