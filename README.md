@@ -76,7 +76,7 @@ Sou estudante da FATEC e ETEC bastante interessado em tecnologia, desenvolviment
 
 
 <div align="center">
-  ## 🎯 Objetivos
+## 🎯 Objetivos
 
 • Conseguir meu primeiro estágio na área de tecnologia
 • Construir projetos mais complexos
@@ -96,8 +96,9 @@ Layout adaptável com HTML e CSS.
 (Em breve mais projetos conforme evolução.)
 
 <br>
+
 ## 📬 Contato
-<br>
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-c40000?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:SEUEMAILAQUI)
 
