@@ -94,9 +94,9 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c40000&section=footer" /></p> 
+  <p align="center"><img align="center" src="r" /></p> 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=c40000&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c40000&section=header"/>
