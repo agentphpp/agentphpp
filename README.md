@@ -10,27 +10,7 @@
 
 </div>
 
-<br>
-<div align="center">
-  <samp>
-      <br>
-      Olá Mundo, eu sou <b>Paulo Henrique Pereira</b>
-  </samp>
-</div>
 
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/agentphpp%20-%20%23c40000" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agentphpp&theme=kacho_ga"/>
-</div>
 
 <div align="center" style="display: inline_block"><br>
   <img style="border: '1px' solid #c40000;" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
@@ -43,14 +23,6 @@
 
 <br>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-<br>
-<br>
-
 <details align="center">  
   <summary>
       <samp>
@@ -80,19 +52,9 @@
   
 </div>
 
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-</div>
 <br>
 
-</details>
+
 
 ##
 
