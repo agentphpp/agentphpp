@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Paulo Henrique Pereira
+# Hey! I'm Paulo Henrique Pereira
 
 **Estudante de desenvolvimento focado em C# e Web.**
 Buscando estágio para ganhar experiência prática e evoluir como programador.
