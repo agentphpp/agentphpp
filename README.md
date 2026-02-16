@@ -25,10 +25,7 @@ Buscando estágio para ganhar experiência prática e evoluir como programador.
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do 3º ano do ensino médio com interesse em tecnologia, desenvolvimento de software e resolução de problemas.
-Atualmente construo projetos próprios para fortalecer minha base em lógica, programação e desenvolvimento web.
-
-Tenho foco em aprendizado contínuo, organização e crescimento profissional.
+Sou estudante da FATEC e ETEC bastante interessado em tecnologia, desenvolvimento de software e resolução de problemas.
 
 <br>
 
@@ -60,29 +57,7 @@ Tenho foco em aprendizado contínuo, organização e crescimento profissional.
 
 <br>
 
-## 🎯 Objetivos
 
-• Conseguir meu primeiro estágio na área de tecnologia
-• Construir projetos mais complexos
-• Melhorar lógica e resolução de problemas
-• Evoluir comunicação e trabalho em equipe
-
-<br>
-
-## 💼 Projetos
-
-**Sistema bancário em C# (Console)**
-Simulação de depósito, saque e controle de saldo com regras de negócio.
-
-**CRUD com JavaScript**
-Manipulação de dados, eventos e interação com interface.
-
-**Página web responsiva**
-Layout adaptável com HTML e CSS.
-
-(Em breve mais projetos conforme evolução.)
-
-<br>
 
 ## 📊 Estatísticas
 
@@ -100,6 +75,27 @@ Layout adaptável com HTML e CSS.
 ## 📬 Contato
 
 <div align="center">
+  ## 🎯 Objetivos
+
+• Conseguir meu primeiro estágio na área de tecnologia
+• Construir projetos mais complexos
+• Melhorar lógica e resolução de problemas
+• Evoluir comunicação e trabalho em equipe
+
+<br>
+
+## 💼 Projetos
+
+**CRUD com JavaScript**
+Manipulação de dados, eventos e interação com interface.
+
+**Página web responsiva**
+Layout adaptável com HTML e CSS.
+
+(Em breve mais projetos conforme evolução.)
+
+<br>
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-c40000?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:SEUEMAILAQUI)
 
