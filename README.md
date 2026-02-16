@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=c40000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c40000&section=header"/>
 
 <br>
 
@@ -94,7 +94,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> 
+  <p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c40000&section=footer" /></p> 
 </div>
 
 <br>
