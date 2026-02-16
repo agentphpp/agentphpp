@@ -37,6 +37,7 @@ Sou estudante da FATEC e ETEC bastante interessado em tecnologia, desenvolviment
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GIT.svg">
 </div>
 
 <br>
@@ -72,7 +73,7 @@ Sou estudante da FATEC e ETEC bastante interessado em tecnologia, desenvolviment
 
 <br>
 
-## 📬 Contato
+
 
 <div align="center">
   ## 🎯 Objetivos
@@ -95,7 +96,8 @@ Layout adaptável com HTML e CSS.
 (Em breve mais projetos conforme evolução.)
 
 <br>
-
+## 📬 Contato
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-c40000?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:SEUEMAILAQUI)
 
