@@ -2,62 +2,112 @@
 
 <br>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C40000&width=435&lines=Ol%C3%A1!+Me+chamo+Paulo.+Seja+bem+Vindo!;Hey!+My+name's+Paulo.+We+Welcome!;%C2%A1Hola!+Me+llamo+Paulo.+%C2%A1Bienvenido!)](https://git.io/typing-svg" alt="Typing SVG"/>
-</div>
 <div align="center">
- <img width="176" height="205" alt="image" src="https://github.com/user-attachments/assets/c71c3256-9fd9-4e12-9e8c-0d54821d84c8" />
+
+# Paulo Henrique Pereira
+
+**Estudante de desenvolvimento focado em C# e Web.**
+Buscando estágio para ganhar experiência prática e evoluir como programador.
 
 </div>
 
+<br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C40000&width=500&lines=Estudante+de+programa%C3%A7%C3%A3o+focado+em+C%23;Construindo+projetos+reais+e+aprendendo+todos+os+dias;Buscando+minha+primeira+oportunidade+em+tecnologia" />
+</div>
 
-<div align="center" style="display: inline_block"><br>
-  <img style="border: '1px' solid #c40000;" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
+<div align="center">
+ <img width="176" height="205" src="https://github.com/user-attachments/assets/c71c3256-9fd9-4e12-9e8c-0d54821d84c8" />
+</div>
+
+<br>
+
+## 👨‍💻 Sobre mim
+
+Sou estudante do 3º ano do ensino médio com interesse em tecnologia, desenvolvimento de software e resolução de problemas.
+Atualmente construo projetos próprios para fortalecer minha base em lógica, programação e desenvolvimento web.
+
+Tenho foco em aprendizado contínuo, organização e crescimento profissional.
+
+<br>
+
+## 🚀 Tecnologias
+
+<div align="center">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  
 </div>
 
 <br>
-<br>
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
 
-##
+**Foco principal:**
+• C# e lógica de programação
+• JavaScript para aplicações web
+• HTML e CSS para interfaces
 
 <br>
+
+## 📚 Atualmente estudando
+
+• Estruturas de dados
+• Git e versionamento
+• APIs REST
+• Desenvolvimento web moderno
+
+<br>
+
+## 🎯 Objetivos
+
+• Conseguir meu primeiro estágio na área de tecnologia
+• Construir projetos mais complexos
+• Melhorar lógica e resolução de problemas
+• Evoluir comunicação e trabalho em equipe
+
+<br>
+
+## 💼 Projetos
+
+**Sistema bancário em C# (Console)**
+Simulação de depósito, saque e controle de saldo com regras de negócio.
+
+**CRUD com JavaScript**
+Manipulação de dados, eventos e interação com interface.
+
+**Página web responsiva**
+Layout adaptável com HTML e CSS.
+
+(Em breve mais projetos conforme evolução.)
+
+<br>
+
+## 📊 Estatísticas
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
-  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agentphpp&theme=kacho_ga"/>
 </div>
 
 <br>
 
+<details align="center">  
+  <summary><b>Mais informações</b></summary>
 
+<br>
 
-##
+## 📬 Contato
 
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-c40000?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:SEUEMAILAQUI)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c40000?style=for-the-badge\&logo=linkedin\&logoColor=fff)](SEULINKAQUI)
+
+</div>
+
+</details>
 
 <br>
 
